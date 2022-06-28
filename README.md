@@ -12,3 +12,6 @@ When the SQL file is executed it creates database named "mysql_in_90min" with th
     suppliers
     
 and inserts the respective data. 
+
+This database was cloned from w3schools' sql tutorial at:
+https://www.w3schools.com/sql/default.asp
